@@ -10,4 +10,4 @@ This Dashboard Chrome Extension project is a challenge from scrimba working with
 
 ![Screenshot from 2022-12-08 11-41-52](https://user-images.githubusercontent.com/69369304/206401877-25128ec3-a9e0-4d1c-8bc4-a25fb1d7c709.png)
 
-![Screenshot from 2022-12-08 11-55-36](https://user-images.githubusercontent.com/69369304/206402638-6a4237fa-a4fa-426c-8c5f-dbdac6aff635.png)
+![Screenshot from 2022-12-08 11-56-37](https://user-images.githubusercontent.com/69369304/206402837-288b4138-a428-426e-9aa8-ed93b009eddd.png)
